@@ -28,7 +28,7 @@ Users enter a unique username before joining the chat, and every message is disp
 Displays a live "User is typing..." notification while another participant is composing a message.
 
 ✅ Room-Based Communication
-Supports multiple chat rooms including: General, Tech Support
+Supports multiple chat rooms including: General, Tech Support.
 Messages are routed only to users within the selected room, preventing global broadcasting.
 
 ✅ Responsive UI
