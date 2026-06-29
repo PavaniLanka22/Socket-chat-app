@@ -8,8 +8,8 @@ A modern real-time chat application developed using React.js, Node.js, Express.j
 🔹 Live typing indicator similar to modern messaging applications
 🔹 Room-based communication with isolated message routing
 🔹 Two independent chat channels:
-    - General
-    - Tech Support
+- General
+- Tech Support
 🔹 Responsive SaaS-inspired user interface
 🔹 WhatsApp-style left/right aligned chat bubbles
 🔹 Modern glassmorphism-inspired design
